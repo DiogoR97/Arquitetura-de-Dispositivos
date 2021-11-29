@@ -1,0 +1,22 @@
+pt/uma/arq/game/Animator.java
+ pt.uma.arq.game.Animator
+pt/uma/arq/game/BackgroundManagement.java
+ pt.uma.arq.game.BackgroundManagement
+pt/uma/arq/entities/PlayerPaddle.java
+ pt.uma.arq.entities.PlayerPaddle
+pt/uma/arq/entities/YellowBlock.java
+ pt.uma.arq.entities.YellowBlock
+pt/uma/arq/entities/RedBlock.java
+ pt.uma.arq.entities.RedBlock
+pt/uma/arq/game/Game.java
+ pt.uma.arq.game.Game
+pt/uma/arq/entities/GreenBlock.java
+ pt.uma.arq.entities.GreenBlock
+pt/uma/arq/entities/Board.java
+ pt.uma.arq.entities.Board
+pt/uma/arq/entities/PurpleBlock.java
+ pt.uma.arq.entities.PurpleBlock
+pt/uma/arq/entities/Ball.java
+ pt.uma.arq.entities.Ball
+pt/uma/arq/entities/BlockExample.java
+ pt.uma.arq.entities.BlockExample
